@@ -1,0 +1,6 @@
+[submodule "roborio-vm"]
+	path = roborio-vm
+	url = https://github.com/robotpy/roborio-vm.git
+[submodule "qemu"]
+	path = qemu
+	url = https://github.com/TotalTaxAmount/qemu.git
